@@ -1,5 +1,5 @@
 # Crazy title
-I can make crazy text to. **i can even make bold text** and *italic*
+I can make crazy text too. **i can even make bold text** and *italic*
 >and whatever you call this
 
 and an ordered list
