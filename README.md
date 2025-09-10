@@ -7,3 +7,4 @@ and an ordered list
 2. it
 3. out
 
+for more crazy stuff check out my profile [My GitHub profile](https://github.com/mikkelobro)
